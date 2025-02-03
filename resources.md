@@ -11,7 +11,7 @@ layout: home
 Overview and introduction of core concepts.
 Introduce classical physical board games and their mechanisms, including Monopoly, Tiny Towns, and Small City.
 
-**Lecture Slides:** [Link to slides]
+**Lecture Slides:** [Link to slides](https://github.com/srcJin/DesigningConsensus/blob/main/slides/L1.pdf)
 
 **Recording:**
 
@@ -23,7 +23,8 @@ Explore how we can turn a game (like Go) into a format the computer can recogniz
 A touch on PettingZoo as a standard for creating digital environments.
 A brief introduction to traditional decision-making modeling approaches, such as behavioral trees, finite state machines, and rule-based systems.
 
-**Lecture Slides:** [Link to slides]
+**Lecture Slides:** [Link to slides](https://github.com/srcJin/DesigningConsensus/blob/main/slides/L2.pdf)
+
 
 **Recording:**
 
@@ -34,7 +35,7 @@ A brief introduction to traditional decision-making modeling approaches, such as
 From a macro perspective, introduction to system dynamics as an approach for modeling complex systems.
 Introduction to the core mechanisms behind classical SLGs that utilize system dynamics concepts, such as SimCity.
 
-**Lecture Slides:** [Link to slides]
+**Lecture Slides:** [Link to slides](https://github.com/srcJin/DesigningConsensus/blob/main/slides/L3.pdf)
 
 **Recording:**
 
@@ -46,13 +47,13 @@ Introduction to swarm intelligence, inspired by real-world examples (e.g., ants)
 Introducing current advances in emergent intelligence with Large-language-Model agents and their limitations.
 Introducing the application behind modern simulation games such as Cities: Skylines, Civilization, and Anno.
 
-**Lecture Slides:** [Link to slides]
+**Lecture Slides:** [Link to slides](https://github.com/srcJin/DesigningConsensus/blob/main/slides/L4.pdf)
 
 **Recording:**
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/0wGUNcmI7IA?si=IcODuqdB4LUMr52E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Guest Lecture:**
+**Guest Lecture Recording:**
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/kMwZiSJQbN0?si=E-huOduew9ZzlRM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +62,7 @@ Step from the concept of game theories we built from the previous lectures, we e
 Starting from reinforcement learning (RL), we will introduce multi-agent RL and explore the pros and cons of a variety of methods.
 Overview of advances in this field, including Deep Blue, AlphaGo, and Cicero.
 
-**Lecture Slides:** [Link to slides]
+**Lecture Slides:** [Link to slides](https://github.com/srcJin/DesigningConsensus/blob/main/slides/L5.pdf)
 
 **Recording:**
 
