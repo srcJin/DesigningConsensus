@@ -1,5 +1,7 @@
 # Designing Consensus: Gamified Modeling and Simulation of Collaborative Decision-Making
 
+[https://srcjin.github.io/DesigningConsensus/](https://srcjin.github.io/DesigningConsensus/)
+
 ![image](./hero.png)
 
 This is the source of MIT IAP Non-Credit course website: Designing Consensus: Gamified Modeling and Simulation of Collaborative Decision-Making
