@@ -1,3 +1,17 @@
+# Designing Consensus: Gamified Modeling and Simulation of Collaborative Decision-Making
+
+![image](./hero.png)
+
+This is the source of MIT IAP Non-Credit course website: Designing Consensus: Gamified Modeling and Simulation of Collaborative Decision-Making
+
+## Introduction
+Design is a process of reaching a consensus. Stakeholders often face conflicting interests and values among diverse options. In this seminar-workshop formatted night course, we will explore methods for modeling, simulating, and analyzing collaborative decision-making in conceptual or real-world design challenges and beyond.
+
+We start each session with a 1-hour seminar introducing concepts and methods. Then we will begin a workshop to turn your favorite design case into a game, individually or in groups.
+
+We learn together! You are encouraged to bring your own case studies and perspectives on any design topic. We will focus on leveraging your designer mindset with beginner-friendly technical topics, not jargon, so no prior technical experience is required.
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

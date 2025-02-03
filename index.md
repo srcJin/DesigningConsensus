@@ -7,6 +7,8 @@ layout: home
 
 ## MIT IAP 2025 Non-Credit Subject
 
+![image](./hero.png)
+
 ## Introduction
 
 Design is a process of reaching a consensus. Stakeholders often face conflicting interests and values among diverse options. In this seminar-workshop formatted night course, we will explore methods for modeling, simulating, and analyzing collaborative decision-making in conceptual or real-world design challenges and beyond.
