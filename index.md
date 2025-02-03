@@ -5,9 +5,7 @@ layout: home
 
 # Designing Consensus: Gamified Modeling and Simulation of Collaborative Decision-Making
 
-## Instructor
-
-Jin Gao
+## MIT IAP 2025 Non-Credit Subject
 
 ## Introduction
 
@@ -17,7 +15,8 @@ We start each session with a 1-hour seminar introducing concepts and methods. Th
 
 We learn together! You are encouraged to bring your own case studies and perspectives on any design topic. We will focus on leveraging your designer mindset with beginner-friendly technical topics, not jargon, so no prior technical experience is required.
 
-
+## Instructor
+Jin Gao (SMArchS Urbanism & SM EECS Candidate)
 
 ### Time & Location
 **Tuesdays and Thursdays, Jan 16 - 30, 6-8 PM**  
